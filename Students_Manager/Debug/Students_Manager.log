@@ -1,0 +1,31 @@
+﻿Build started 25/5/2016 10:53:56 AM.
+     1>Project "E:\INFORMATION TECHNOLOGY\KI 4\Thuc Tap ky thuat lap trinh\CODE\Hang\Students_Manager\Students_Manager\Students_Manager.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(234): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(380): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(467): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(468): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(469): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(492): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1601): warning C4101: 'temp' : unreferenced local variable
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1950): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1952): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1954): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1956): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1958): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1849): warning C4101: 'pt' : unreferenced local variable
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1427): warning C4715: 'BS_average' : not all control paths return a value
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1381): warning C4715: 'BS_name' : not all control paths return a value
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1472): warning C4715: 'BS_DOB' : not all control paths return a value
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1517): warning C4715: 'BS_Class' : not all control paths return a value
+     1>e:\information technology\ki 4\thuc tap ky thuat lap trinh\code\hang\students_manager\students_manager\source.cpp(1562): warning C4715: 'BS_ID' : not all control paths return a value
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\INFORMATION TECHNOLOGY\KI 4\Thuc Tap ky thuat lap trinh\CODE\Hang\Students_Manager\Debug\Students_Manager.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\INFORMATION TECHNOLOGY\KI 4\Thuc Tap ky thuat lap trinh\CODE\Hang\Students_Manager\Debug\Students_Manager.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\INFORMATION TECHNOLOGY\KI 4\Thuc Tap ky thuat lap trinh\CODE\Hang\Students_Manager\Debug\Students_Manager.lib" /MACHINE:X86 Debug\Source.obj
+         Students_Manager.vcxproj -> E:\INFORMATION TECHNOLOGY\KI 4\Thuc Tap ky thuat lap trinh\CODE\Hang\Students_Manager\Debug\Students_Manager.exe
+     1>Done Building Project "E:\INFORMATION TECHNOLOGY\KI 4\Thuc Tap ky thuat lap trinh\CODE\Hang\Students_Manager\Students_Manager\Students_Manager.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.51
